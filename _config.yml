@@ -1,0 +1,37 @@
+# Site Settings
+title:               Neel Shah
+tagline:             Data Analyst, Business Analyst, Machine Learning, Deep Learning, Python.
+description:
+baseurl:            "https://github.com/NeelShah18/NeelShah18.github.io"
+url:                "https://github.com/NeelShah18/NeelShah18.github.io"
+github:             "https://github.com/NeelShah18"
+url:               "https://github.com/NeelShah18/NeelShah18.github.io"
+author:              "Neel Shah"
+name:              "Neel Shah"
+email:             "neelknightme@gmail.com"
+twitter:           "Neel Shah"
+instagram:         "https://www.instagram.com/neelshah_"
+facebook:          "https://www.facebook.com/neelxyz"
+linkedin:          "https://www.linkedin.com/in/neel-shah-7b5495104/"
+paginate:            5
+disqus:            digitaldrummerj
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems: [jekyll-paginate]
+
+collections:
+   library:
+     output: true
+     permalink: /library/:path/
+   project:
+     output: true
+     permalink: /project/:path/
+   resume:
+     output: true
+     permalink: /resume/:path/
+   upcoming:
+     output: true
+     permalink: /upcoming/:path/
