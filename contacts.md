@@ -11,7 +11,7 @@ Hello, You can contact me from below social-network:
 
 3) [LinkedIn](https://www.linkedin.com/in/neel-shah-7b5495104/)
 
-If you want to find open source of my blogs and other go to my Github account:
+If you want to find open source code of my work goto my Github account:
 
 * [GitHub : Link](https://github.com/NeelShah18)
 
