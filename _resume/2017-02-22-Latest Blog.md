@@ -6,11 +6,15 @@ title: "Resume :"
 Neel Shah 
 =========
 
--------------------     ----------------------------
-4 - Suvidha Nagar,            neelknightme@gmail.com
-Godhara,389001         https://neelshah18.github.io/
-India                                 +91-9408427080
--------------------     ----------------------------
+-------------------     
+4 - Suvidha Nagar,           
+Godhara,389001         
+India
+
+Email: neelknightme@gmail.com
++91-9408427080
+https://neelshah18.github.io/
+-------------------    
 
 
 Experience
@@ -39,6 +43,11 @@ links:
 
 * [Arjun Roadways](http://arjunroadways.com/)
 
+Projects
+--------
+: **Scopus Analysis** - 2017, [IDLI](http://idli.group/team.html)
+  
+  *The main aim of this data analysis is to identify the ongoing research in Indian Universities and Indian Industry. It gives a basic answer about research source and trend with top authors and publication. It also shows the participation of Industry and Universities in research.[Read more...](https://neelshah18.github.io/Scopus-analysis.html) 
 
 Education
 ---------
@@ -58,30 +67,6 @@ Education
     *Project: E-money for hyper market management services with barcode, RFID, 
      Biometric identification and SMS notification*
 
-
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Skills
 :   **first-lang:** Python, R, Java, C, C++, HTML, CSS, XML, JSON
 
@@ -95,16 +80,22 @@ Skills
 
 [ref]: https://github.com/NeelShah18
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Personal details
+----------------
 
 * Human Languages:
 
-     * English 
-     * Hindi
-     * Gujarati
-     * Spanish
+     * English(fluent)
+     * Hindi(fluent)
+     * Gujarati(fluent)
+     * Spanish(begineer)
 
-* Random tidbit
+* Hobbies:
+  
+     * Reading Novel specially Fiction, Sci-Fiction, Love story, History etc...
+     * Football
+     * Writing poems
 
-* Other sort of impressive-sounding thing you did
+[LinkedIn profile](https://www.linkedin.com/in/neel-shah-7b5495104/)
+
+**I take reposibilities of my details. **
