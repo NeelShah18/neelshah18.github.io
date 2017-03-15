@@ -31,7 +31,7 @@ Dataset and Jupyter notebook is available under MIT - open source license. If yo
 
 #### Results of data analysis:
 
-<p style="text-align: justify;">The first pie chart shows that 14.42% research done by Industry and 85.68% research done by University. It is a little bit surprising that in India the ratio of Industry and University research is not good compared to other countries.</p> 
+<p style="text-align: justify;">The first pie chart shows that 14.42% research done by Industry and 85.58% research done by University. It is a little bit surprising that in India the ratio of Industry and University research is not good compared to other countries.</p> 
 <img src="/images/scopus_pic/pic_1.png" width="750px" height="250px">
 
 <p style="text-align: justify;">Second pie chart gives the information about companies research, and It is surprising that almost  70% research done by non-Indian companies headquarters in India. Google and IBM published almost 62% of total industry research publication. While there is only one Indian company who survive in top 10 is TCS with 13% publication.</p> 
