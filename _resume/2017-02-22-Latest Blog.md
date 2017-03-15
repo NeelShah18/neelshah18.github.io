@@ -10,14 +10,13 @@ Neel Shah
 4 - Suvidha Nagar,           
 Godhara,389001         
 India
-
 --------------------------------------------------------------------------------------------------------------
+
 Contact:
 
-Email: neelknightme@gmail.com
-Number: +91-9408427080
-Website: https://neelshah18.github.io/
---------------------------------------------------------------------------------------------------------------- 
+- Email: neelknightme@gmail.com
+- Number: +91-9408427080
+- Website: https://neelshah18.github.io/
 
 Experience
 ----------
