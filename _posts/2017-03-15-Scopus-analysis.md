@@ -60,8 +60,17 @@ Below six bar graph shows top research trend in an individual year from 2010 to 
 
 #### About Dataset and processing and cleaning of data:
 
-1) It is a collection of 1387 paper dataset from SCOPUS journal between 2001 to 2016 published by Indian Universities or India based research center of any industry.
-2) If a paper has multiple authors from Industry and Indian University, we count that paper as university paper.
-3) If a paper published by industry and non-Indian university, we count that paper as Industry paper.
-4) During cleaning of data, we consider the different name of Institute as single Institute. For example  IIT-Madras, Indian Institute of Technology and IIT-M count as the same institute.
-5) We also consider the different name of same industry as single industry, For example, TCS and tata consultancy service count as the same industry.
+* It is a collection of 1387 paper dataset from SCOPUS journal between 2001 to 2016 published by Indian Universities or India based research center of any industry.
+
+* If a paper has multiple authors from Industry and Indian University, we count that paper as university paper.
+
+* If a paper published by industry and non-Indian university, we count that paper as Industry paper.
+
+* During cleaning of data, we consider the different name of Institute as single Institute. For example  IIT-Madras, Indian Institute of Technology and IIT-M count as the same institute.
+
+* We also consider the different name of same industry as single industry, For example, TCS and tata consultancy service count as the same industry.
+
+**Dataset and Jupyter notebook is available under MIT - open source license. If you want to use this code or data feel free to do it, But,  Please cite me.**
+
+* Link to the repository : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
+* Link to Code and Dataset(store in SQLite and CSV format) : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
