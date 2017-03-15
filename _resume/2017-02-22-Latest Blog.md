@@ -48,7 +48,10 @@ Projects
 --------
 :   **Scopus Analysis** - 2017, [IDLI](http://idli.group/team.html)
   
-    *The main aim of this data analysis is to identify the ongoing research in Indian Universities and Indian Industry. It gives a basic answer about research source and trend with top authors and publication. It also shows the participation of Industry and Universities in research.[Read more...](https://neelshah18.github.io/Scopus-analysis.html) 
+    * The main aim of this data analysis is to identify the ongoing research in Indian Universities and Indian Industry.
+    * It gives a basic answer about research source and trend with top authors and publication.
+    * It also shows the participation of Industry and Universities in research.
+      [Read more...](https://neelshah18.github.io/Scopus-analysis.html) 
 
 Education
 ---------
