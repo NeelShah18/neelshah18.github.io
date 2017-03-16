@@ -51,13 +51,10 @@ Dataset(only arxiv data, SCOPUS dataset is not open source) and Jupyter notebook
 <img src="/images/scopus_pic/trend.png" width="750px" height="250px">
 
 <p style="text-align: justify;">When we compare that data with arxiv data which represent world's research trend, we did notmatch the world's trend.</p>
-<img src="/images/scopus_pic/trend.png" width="750px" height="250px">
+<img src="/images/arxiv_pic/trend.png" width="750px" height="250px">
 
 <p style="text-align: justify;">When see the top words use in title, below chart gives a clear of trend in research. And this shows, We are lacking behind that.</p>
-<img src="/images/scopus_pic/word.png" width="750px" height="250px">
-
-Below bar graph shows top 20  cited paper of Indian researcher.
-<img src="/images/scopus_pic/pic_4.png" width="750px" height="250px">
+<img src="/images/arxiv_pic/word.png" width="750px" height="250px">
 
 below graph shows top 20 Indian authors based on the citation number.
 <img src="/images/scopus_pic/pic_5.png" width="750px" height="250px">
