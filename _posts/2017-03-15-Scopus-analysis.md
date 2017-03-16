@@ -1,6 +1,7 @@
-# SCOPUS journal Data analysis of Indian Research
+### Research trend of AI in India
 
-<p style="text-align: justify;">About: The main aim of this data analysis is to identify the ongoing research in Indian Universities and Indian Industry. It gives a basic answer about research source and trend with top authors and publication. It also shows the participation of Industry and Universities in research. Than it is compare to world's trend gathered from arxiv open source dataset.</p>
+**Introduction:**
+<p style="text-align: justify;">The main aim of this data analysis is to identify the ongoing research in Indian Universities and Indian Industry. It gives us the basic answer about research realms and its trends in India. It also gives us a brief view of top authors and research papers. To understand it more deeply, we compare Indian research results with world's research results and it gives us some surprising differences in research trend.</p>
 
 **Note: All data is related to computer science field only.**
 
@@ -8,7 +9,7 @@ Created By :
 -------------
 **Neel Shah:** [Website](https://neelshah18.github.io/) | [Linkedin](https://www.linkedin.com/in/neel-shah-7b5495104/) | [GitHub](https://github.com/NeelShah18) | Email: **neelknightme@gmail.com**
 
-**Open to hire**
+**Open to Hire!!!**
 
 Edited and Guided By:
 -----------
@@ -22,9 +23,11 @@ Edited and Guided By:
 
 #### Technical Implementation - Open source license
 
-It is implemented in a Jupyter notebook with a back of Anaconda and Python 3.6+ version. 
+It is implemented in a Jupyter notebook with a back of Anaconda and Python 3.6+ version.
 
-Dataset(only arxiv data, SCOPUS dataset is not open source) and Jupyter notebook is available under MIT - open source license. If you want to use this code or data feel free to do it, But,  Please cite me.
+We use arxiv dataset with 24700+ paper details as world data. We use SCOPUS journal dataset, where the authors of published paper are Indian or paper published by research center which is located in India. It has a detail of 1387 papers published between 2001 to 2016.
+
+Jupyter notebook(code) and arxiv data set available for free under MIT- open source license. SCOPUS journal dataset is not available under open source license.
 
 * Link to the repository : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
 * Link to : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
@@ -34,7 +37,7 @@ Dataset(only arxiv data, SCOPUS dataset is not open source) and Jupyter notebook
 <img src="/images/scopus_pic/scopus.png" width="750px" height="250px">
 
 #### About ARXIV
-<p style="text-align: justify;">arXiv is an e-print service in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance and statistics. Submissions to arXiv should conform to Cornell University academic standards. arXiv is owned and operated by Cornell University, a private not-for-profit educational institution. arXiv is funded by Cornell University Library, the Simons Foundation and by the member institutions.</p> [ref](https://arxiv.org/)
+<p style="text-align: justify;">ARXIV is an e-print service in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance and statistics. Submissions to arXiv should conform to Cornell University academic standards. arXiv is owned and operated by Cornell University, a private not-for-profit educational institution. arXiv is funded by Cornell University Library, the Simons Foundation and by the member institutions.</p> [ref](https://arxiv.org/)
 
 #### Results of data analysis:
 
