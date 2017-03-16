@@ -87,7 +87,7 @@ Below six bar graph shows top research trend in an individual year from 2010 to 
 #### About Dataset and processing and cleaning of data:
 
 * SCOPUS data set is not open source. So we can not able to publish it.
-* ARXIV meta data(Limited field such as author name, title name, summary, citation, category) is open source and dataset is link is available below.
+* ARXIV meta data(Limited field such as author name, title name, summary, citation, category) is open source and dataset link is available below.
 * Data is already clean and arranged.
 
 **Dataset and Jupyter notebook is available under MIT - open source license. If you want to use this code or data feel free to do it, But,  Please cite me.**
