@@ -34,7 +34,7 @@ Dataset(only arxiv data, SCOPUS dataset is not open source) and Jupyter notebook
 <img src="/images/scopus_pic/scopus.png" width="750px" height="250px">
 
 #### About ARXIV
-<p style="text-align: justify;">arXiv is an e-print service in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance and statistics. Submissions to arXiv should conform to Cornell University academic standards. arXiv is owned and operated by Cornell University, a private not-for-profit educational institution. arXiv is funded by Cornell University Library, the Simons Foundation and by the member institutions.</p> [1](https://arxiv.org/)
+<p style="text-align: justify;">arXiv is an e-print service in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance and statistics. Submissions to arXiv should conform to Cornell University academic standards. arXiv is owned and operated by Cornell University, a private not-for-profit educational institution. arXiv is funded by Cornell University Library, the Simons Foundation and by the member institutions.</p> [ref](https://arxiv.org/)
 
 #### Results of data analysis:
 
@@ -53,7 +53,7 @@ Dataset(only arxiv data, SCOPUS dataset is not open source) and Jupyter notebook
 <p style="text-align: justify;">When we compare that data with arxiv data which represent world's research trend, we did notmatch the world's trend.</p>
 <img src="/images/arxiv_pic/trend.png" width="750px" height="250px">
 
-<p style="text-align: justify;">When see the top words use in title, below chart gives a clear of trend in research. And this shows, We are lacking behind that.</p>
+<p style="text-align: justify;">When anlysis the top words use in title from arxiv world dataset, below chart gives a clear trend in research. And this shows, We are lacking behind that.</p>
 <img src="/images/arxiv_pic/word.png" width="750px" height="250px">
 
 below graph shows top 20 Indian authors based on the citation number.
