@@ -1,10 +1,13 @@
 # SCOPUS journal Data analysis of Indian Research
 
-<p style="text-align: justify;">About: The main aim of this data analysis is to identify the ongoing research in Indian Universities and Indian Industry. It gives a basic answer about research source and trend with top authors and publication. It also shows the participation of Industry and Universities in research.</p>
+<p style="text-align: justify;">About: The main aim of this data analysis is to identify the ongoing research in Indian Universities and Indian Industry. It gives a basic answer about research source and trend with top authors and publication. It also shows the participation of Industry and Universities in research. Than it is compare to world's trend gathered from arxiv open source dataset.</p>
+
+**Note: All data is related to computer science field only.**
 
 Created By : 
 -------------
-**Neel Shah:** [Website](https://neelshah18.github.io/) | [Linkedin](https://www.linkedin.com/in/neel-shah-7b5495104/) | [GitHub](https://github.com/NeelShah18) | Email:**neelknightme@gmail.com**
+**Neel Shah:** [Website](https://neelshah18.github.io/) | [Linkedin](https://www.linkedin.com/in/neel-shah-7b5495104/) | [GitHub](https://github.com/NeelShah18) | Email: **neelknightme@gmail.com**
+
 **Open to hire**
 
 Edited and Guided By:
@@ -21,13 +24,17 @@ Edited and Guided By:
 
 It is implemented in a Jupyter notebook with a back of Anaconda and Python 3.6+ version. 
 
-Dataset and Jupyter notebook is available under MIT - open source license. If you want to use this code or data feel free to do it, But,  Please cite me.
+Dataset(only arxiv data, SCOPUS dataset is not open source) and Jupyter notebook is available under MIT - open source license. If you want to use this code or data feel free to do it, But,  Please cite me.
 
 * Link to the repository : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
-* Link to Code and Dataset(store in SQLite and CSV format) : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
+* Link to : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
+* Dataset(store in SQLite and CSV format) : [Click here!](https://github.com/NeelShah18/Arxiv_Data_analysis)
 
 #### About SCOPUS journal:
 <img src="/images/scopus_pic/scopus.png" width="750px" height="250px">
+
+#### About ARXIV
+<p style="text-align: justify;">arXiv is an e-print service in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance and statistics. Submissions to arXiv should conform to Cornell University academic standards. arXiv is owned and operated by Cornell University, a private not-for-profit educational institution. arXiv is funded by Cornell University Library, the Simons Foundation and by the member institutions.</p> [1](https://arxiv.org/)
 
 #### Results of data analysis:
 
@@ -43,34 +50,50 @@ Dataset and Jupyter notebook is available under MIT - open source license. If yo
 <p style="text-align: justify;">Currently, there is a boom of Artificial Intelligence, Machine learning, and deep learning and below bar graph proves the popularity of those research from 2001 to 2016. It also shows that publication in AI field shows zig-zag patterns because of complexity in research and lake of financial support in India.</p>
 <img src="/images/scopus_pic/trend.png" width="750px" height="250px">
 
+<p style="text-align: justify;">When we compare that data with arxiv data which represent world's research trend, we did notmatch the world's trend.</p>
+<img src="/images/scopus_pic/.png" width="750px" height="250px">
+
+<p style="text-align: justify;">When see the top words use in title, picture of trend is become clear. We are lacking behind that.</p>
+
 Below bar graph shows top 20  cited paper of Indian researcher.
 <img src="/images/scopus_pic/pic_4.png" width="750px" height="250px">
 
 below graph shows top 20 Indian authors based on the citation number.
 <img src="/images/scopus_pic/pic_5.png" width="750px" height="250px">
+<p style="text-align: justify;">Now compare this with top researcher from around the globe.</p>
+<img src="/images/arxiv_pic/author.png" width="750px" height="250px">
 
 Below six bar graph shows top research trend in an individual year from 2010 to 2016.
+<p style="text-align: justify;">Below we have result of Top trends in Indian research and world's research for year 2010</p>
 <img src="/images/scopus_pic/2010.png" width="750px" height="250px">
+<img src="/images/arxiv_pic/2010.png" width="750px" height="250px">
+<p style="text-align: justify;">Below we hve result of Top trends in Indian research and world's research for year 2011</p>
 <img src="/images/scopus_pic/2011.png" width="750px" height="250px">
+<img src="/images/arxiv_pic/2011.png" width="750px" height="250px">
+<p style="text-align: justify;">Below we hve result of Top trends in Indian research and world's research for year 2012</p>
 <img src="/images/scopus_pic/2012.png" width="750px" height="250px">
+<img src="/images/arxiv_pic/2012.png" width="750px" height="250px">
+<p style="text-align: justify;">Below we hve result of Top trends in Indian research and world's research for year 2013</p>
 <img src="/images/scopus_pic/2013.png" width="750px" height="250px">
+<img src="/images/arxiv_pic/2013.png" width="750px" height="250px">
+<p style="text-align: justify;">Below we hve result of Top trends in Indian research and world's research for year 2014</p>
 <img src="/images/scopus_pic/2014.png" width="750px" height="250px">
+<img src="/images/arxiv_pic/2014.png" width="750px" height="250px">
+<p style="text-align: justify;">Below we hve result of Top trends in Indian research and world's research for year 2015</p>
 <img src="/images/scopus_pic/2015.png" width="750px" height="250px">
+<img src="/images/arxiv_pic/2015.png" width="750px" height="250px">
+<p style="text-align: justify;">Below we hve result of Top trends in Indian research and world's research for year 2016</p>
 <img src="/images/scopus_pic/2016.png" width="750px" height="250px">
+<img src="/images/arxiv_pic/2016.png" width="750px" height="250px">
 
 #### About Dataset and processing and cleaning of data:
 
-* It is a collection of 1387 paper dataset from SCOPUS journal between 2001 to 2016 published by Indian Universities or India based research center of any industry.
-
-* If a paper has multiple authors from Industry and Indian University, we count that paper as university paper.
-
-* If a paper published by industry and non-Indian university, we count that paper as Industry paper.
-
-* During cleaning of data, we consider the different name of Institute as single Institute. For example  IIT-Madras, Indian Institute of Technology and IIT-M count as the same institute.
-
-* We also consider the different name of same industry as single industry, For example, TCS and tata consultancy service count as the same industry.
+* SCOPUS data set is not open source. So we can not able to publish it.
+* ARXIV meta data(Limited field such as author name, title name, summary, citation, category) is open source and dataset is link is available below.
+* Data is already clean and arranged.
 
 **Dataset and Jupyter notebook is available under MIT - open source license. If you want to use this code or data feel free to do it, But,  Please cite me.**
 
 * Link to the repository : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
-* Link to Code and Dataset(store in SQLite and CSV format) : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
+* Link to : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
+* Dataset(store in SQLite and CSV format) : [Click here!](https://github.com/NeelShah18/Arxiv_Data_analysis)
