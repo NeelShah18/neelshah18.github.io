@@ -53,10 +53,10 @@ Jupyter notebook(code) and arxiv data set available for free under MIT- open sou
 <p style="text-align: justify;">A country with more 129 Deemed Universities, 67 Institution of National Importance (Public), 700 Total Degree-granting Institutions, 35,539 Affiliated Colleges (Public or Private) below result create a big question on the quality of education. It is a big concern for the Indian government and Indian University. From all university publication almost 42% of research publication done by Top - 15 Universities. It is surprising that almost 7.5% of total research publication done by IIS - Banglore alone.  Even IIT - Kharagpur which knows as research hub of Indian IT sector, ranked 7th in top 15 Universities with 2.86% of publication.</p>
 <img src="/images/scopus_pic/pic_3.png" width="750px" height="250px">
 
-<p style="text-align: justify;">Currently, there is a boom of Artificial Intelligence, Machine learning, and deep learning and below bar graph proves the popularity of those research from 2001 to 2016. It also shows that publication in AI field shows zig-zag patterns because of complexity in research and lake of financial support in India.</p>
+<p style="text-align: justify;">Currently, there is a boom of Artificial Intelligence, Machine learning, and deep learning and below bar graph proves the popularity of those research from 2001 to 2016 in India. It also shows that publication in AI field shows zig-zag patterns because of complexity in research and lake of financial support in India.</p>
 <img src="/images/scopus_pic/trend.png" width="750px" height="250px">
 
-<p style="text-align: justify;">When we compare that data with arxiv data which represent world's research trend, we did notmatch the world's trend.</p>
+<p style="text-align: justify;">When we compare that data with world data which represent world's research trend, But we are not able to match that research trend.</p>
 <img src="/images/arxiv_pic/trend.png" width="750px" height="250px">
 
 <p style="text-align: justify;">When anlysis the top words use in title from arxiv world dataset, below chart gives a clear trend in research. And this shows, We are lacking behind that.</p>
