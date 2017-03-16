@@ -37,7 +37,7 @@ Jupyter notebook(code) and arxiv data set available for free under MIT- open sou
 <img src="/images/scopus_pic/scopus.png" width="750px" height="250px">
 
 #### About ARXIV
-<p style="text-align: justify;">ARXIV is an e-print service in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance and statistics. Submissions to arXiv should conform to Cornell University academic standards. arXiv is owned and operated by Cornell University, a private not-for-profit educational institution. arXiv is funded by Cornell University Library, the Simons Foundation and by the member institutions.</p> [ref](https://arxiv.org/)
+<p style="text-align: justify;">ARXIV is an e-print service in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance and statistics. Submissions to arXiv should conform to Cornell University academic standards. arXiv is owned and operated by Cornell University, a private not-for-profit educational institution. arXiv is funded by Cornell University Library, the Simons Foundation and by the member institutions.<a href="https://arxiv.org/"> [Ref] </a></p>
 
 #### Results of data analysis:
 
