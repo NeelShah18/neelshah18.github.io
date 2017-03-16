@@ -92,10 +92,10 @@ Below six bar graph shows top research trend in an individual year from 2010 to 
 
 **Dataset and Jupyter notebook is available under MIT - open source license. If you want to use this code or data feel free to do it, But,  Please cite me.**
 
-**References:**
-* [The Google Brain team — Looking Back on 2016](https://research.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html)
-* [PM Modi addresses Indian Science Congress in Tirupati](http://rstv.nic.in/pm-modi-addresses-indian-science-congress-tirupati.html?sf52381424=1)
-
 * Link to the repository : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
 * Link to : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
 * Dataset(store in SQLite and CSV format) : [Click here!](https://github.com/NeelShah18/Arxiv_Data_analysis)
+
+**References:**
+* [The Google Brain team — Looking Back on 2016](https://research.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html)
+* [PM Modi addresses Indian Science Congress in Tirupati](http://rstv.nic.in/pm-modi-addresses-indian-science-congress-tirupati.html?sf52381424=1)
