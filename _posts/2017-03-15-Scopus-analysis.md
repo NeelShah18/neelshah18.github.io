@@ -1,4 +1,7 @@
-### Research trend of AI in India
+---
+layout: post
+title: Research trend of AI in India
+---
 
 **Introduction:**
 <p style="text-align: justify;">The main aim of this data analysis is to identify the ongoing research in Indian Universities and Indian Industry. It gives us the basic answer about research realms and its trends in India. It also gives us a brief view of top authors and research papers. To understand it more deeply, we compare Indian research results with world's research results and it gives us some surprising differences in research trend.</p>
