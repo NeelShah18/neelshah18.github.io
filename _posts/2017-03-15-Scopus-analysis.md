@@ -105,3 +105,5 @@ Below six bar graph shows top research trend in an individual year from 2010 to 
 **References:**
 * [The Google Brain team — Looking Back on 2016](https://research.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html)
 * [PM Modi addresses Indian Science Congress in Tirupati](http://rstv.nic.in/pm-modi-addresses-indian-science-congress-tirupati.html?sf52381424=1)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FBogZqSuP8eNzy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/neelknight1/research-trend-of-ai-in-india-73238255" title="Research trend of ai in india" target="_blank">Research trend of ai in india</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/neelknight1">Neel Shah</a></strong> </div>
