@@ -10,11 +10,14 @@ title: Home
 I love python and R coding for data analysis with MySQL and MongoDB(NoSQL) for data management. But I am fluent in Java, C/C++, HTML, CSS, Jekyll, Apache too. Ubuntu Desktop and Ubuntu Server are my favorite OS. And I served as Ubuntu server management for 6+ months. I am open to Hire! Please <a href="https://neelshah18.github.io/contacts.html" style="color: #C70039;"><font color:"#C70039"> contact me here!</font></a> 
 </p>
 <br>
+<hr>
+<h3>Latest work...</h3>
+<hr>
 {% for upcoming in site.upcoming %}
 <div class="posts">
-  <h1  style="text-align: center;">
+  <h4  style="text-align: center;">
     <a href="{{ site.github.url }}{{ upcoming.url }}">{{ upcoming.title }}</a>
-  </h1>
+  </h4>
   <p>
     {{ upcoming.content | strip_html | truncate: 200 }} <a href="{{ site.github.url }}{{ upcoming.url }}">Read more</a>
     <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ upcoming.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
