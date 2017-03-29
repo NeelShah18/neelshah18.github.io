@@ -67,6 +67,7 @@ Education
 2017
 :   **Ph.D. track(MS + Ph.D.), Computer science**; Lakehead University,Thunder bay (Canada)
 
+
 2014-2016 
 :   **Master , Information Technology**; Gujarat Technology University (Vadodara)
 
@@ -83,6 +84,7 @@ Education
      Biometric identification and SMS notification*
 
 Skills
+
 :   **first-lang:** Python, API using python and REST, R, Java, C, C++, HTML, CSS, XML, JSON
 
 :   **Statistics skills:** Basic and Advance Statics, Predictive analysis, Outliner and Variation finding in data
