@@ -14,13 +14,11 @@ Created by:
 
 **Open to hire!!!**
 
-Guided by:
+#### Guided by:
 
 1) **Malaikannan Sankarasubbu** | [Linkedin](https://www.linkedin.com/in/malaikannan/) | [GitHub](href="https://github.com/malaikannan)
 2) **Dr. Jacob Minz** | [Linkedin](https://www.linkedin.com/in/jacob-minz-16762a3/) | [GitHub](https://github.com/jrminz)
 3) **Anirban Santara** | [Linkedin](https://www.linkedin.com/in/anirbansantara/) | [GitHub](https://github.com/Santara)
-
--------------------------------------------------------------------------------------------------------------------
 
 #### Technical Implementation - Open Source license
 
