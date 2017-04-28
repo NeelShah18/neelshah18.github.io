@@ -3,23 +3,21 @@ layout: post
 title: Research trends of AI in India
 ---
 
-**Introduction:**
+#### Introduction:
 <p style="text-align: justify;">The goal of this data analysis is to identify trends in ongoing research at Indian universities and companies. It also provides a quick glimpse of top authors and research papers. To put this in perspective, we compare this data to its global equivalent, which reveals some surprising differences in research trends.</p>
 
 **Note: All data is related to computer science field only.**
 
 Created by:
--------------
+
 **Neel Shah** | [Website](https://neelshah18.github.io/) | [Linkedin](https://www.linkedin.com/in/neel-shah-7b5495104/) | [GitHub](https://github.com/NeelShah18) | Email: **neelknightme@gmail.com**
 
 **Open to hire!!!**
 
 Guided by:
------------
+
 1) **Malaikannan Sankarasubbu** | [Linkedin](https://www.linkedin.com/in/malaikannan/) | [GitHub](href="https://github.com/malaikannan)
-
 2) **Dr. Jacob Minz** | [Linkedin](https://www.linkedin.com/in/jacob-minz-16762a3/) | [GitHub](https://github.com/jrminz)
-
 3) **Anirban Santara** | [Linkedin](https://www.linkedin.com/in/anirbansantara/) | [GitHub](https://github.com/Santara)
 
 -------------------------------------------------------------------------------------------------------------------
