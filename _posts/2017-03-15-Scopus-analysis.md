@@ -1,109 +1,102 @@
 ---
 layout: post
-title: Research trend of AI in India
+title: Research trends of AI in India
 ---
 
-**Introduction:**
-<p style="text-align: justify;">The main aim of this data analysis is to identify the ongoing research in Indian Universities and Indian Industry. It gives us the basic answer about research realms and its trends in India. It also gives us a brief view of top authors and research papers. To understand it more deeply, we compare Indian research results with world's research results and it gives us some surprising differences in research trend.</p>
+#### Introduction:
+<p style="text-align: justify;">The goal of this data analysis is to identify trends in ongoing research at Indian universities and companies. It also provides a quick glimpse of top authors and research papers. To put this in perspective, we compare this data to its global equivalent, which reveals some surprising differences in research trends.</p>
 
 **Note: All data is related to computer science field only.**
 
-Created By : 
--------------
-**Neel Shah:** [Website](https://neelshah18.github.io/) | [Linkedin](https://www.linkedin.com/in/neel-shah-7b5495104/) | [GitHub](https://github.com/NeelShah18) | Email: **neelknightme@gmail.com**
+#### Created by:
 
-**Open to Hire!!!**
+**Neel Shah** | [Website](https://neelshah18.github.io/) | [Linkedin](https://www.linkedin.com/in/neel-shah-7b5495104/) | [GitHub](https://github.com/NeelShah18) | Email: **neelknightme@gmail.com**
 
-Edited and Guided By:
------------
-1) Malaikannan Sankarasubbu - Know about him more:  [Linkedin](https://www.linkedin.com/in/malaikannan/) | [GitHub](href="https://github.com/malaikannan)
+#### Guided by:
 
-2) Dr. Jacob Minz - Know about him more:  [Linkedin](https://www.linkedin.com/in/jacob-minz-16762a3/) | [GitHub](https://github.com/jrminz)
+1) **Malaikannan Sankarasubbu** | [Linkedin](https://www.linkedin.com/in/malaikannan/) | [GitHub](href="https://github.com/malaikannan)
+2) **Dr. Jacob Minz** | [Linkedin](https://www.linkedin.com/in/jacob-minz-16762a3/) | [GitHub](https://github.com/jrminz)
+3) **Anirban Santara** | [Linkedin](https://www.linkedin.com/in/anirbansantara/) | [GitHub](https://github.com/Santara)
 
-3) Anirban Santara - Know about him more:  [Linkedin](https://www.linkedin.com/in/anirbansantara/) | [GitHub](https://github.com/Santara)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--------------------------------------------------------------------------------------------------------------------
+#### Technical Implementation - Open Source license
 
-#### Technical Implementation - Open source license
+This analysis was implemented in a Jupyter notebook running on the Anaconda distribution of Python 3.6+.
+We used the SCOPUS journal dataset to examine papers and research conducted by Indian authors within India. This dataset details 1387 papers published between 2001 and 2016.
+We used the arXiv dataset with 24700+ papers for global data.
+The Jupyter notebook (code) and arXiv dataset are available for free under the MIT open source license. However, the SCOPUS journal dataset is not available under an open source license.
 
-It is implemented in a Jupyter notebook with a back of Anaconda and Python 3.6+ version.
+* View the repository [here](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher).
+* Find the arXiv dataset (stored in SQLite and CSV formats)  [here](https://github.com/NeelShah18/Arxiv_Data_analysis).
 
-We use arxiv dataset with 24700+ paper details as world data. We use SCOPUS journal dataset, where the authors of published paper are Indian or paper published by research center which is located in India. It has a detail of 1387 papers published between 2001 to 2016.
-
-Jupyter notebook(code) and arxiv data set available for free under MIT- open source license. SCOPUS journal dataset is not available under open source license.
-
-* Link to the repository : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
-* Link to : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
-* Dataset(store in SQLite and CSV format) : [Click here!](https://github.com/NeelShah18/Arxiv_Data_analysis)
-
-#### About SCOPUS journal:
+#### About the SCOPUS journal:
 <img src="/images/scopus_pic/scopus.png" width="750px" height="250px">
 
-#### About ARXIV
-<p style="text-align: justify;">ARXIV is an e-print service in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance and statistics. Submissions to arXiv should conform to Cornell University academic standards. arXiv is owned and operated by Cornell University, a private not-for-profit educational institution. arXiv is funded by Cornell University Library, the Simons Foundation and by the member institutions.<a href="https://arxiv.org/"> [Ref] </a></p>
+#### About arXiv
+<p style="text-align: justify;">arXiv is an e-print service in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance and statistics. Submissions to arXiv should conform to Cornell University academic standards. arXiv is owned and operated by Cornell University, a private not-for-profit educational institution. arXiv is funded by Cornell University Library, the Simons Foundation, and member institutions.<a href="https://arxiv.org/"> [Ref] </a></p>
 
 #### Results of data analysis:
 
-<p style="text-align: justify;">The first pie chart shows that 14.42% research done by Industry and 85.58% research done by University. It is a little bit surprising that in India the ratio of Industry and University research is not good compared to other countries.</p> 
+<p style="text-align: justify;">This first pie-chart shows that 14.42% of research is done by the industry, compared to 85.58% at universities. It is a little bit surprising that in India the ratio of industry and university research is not very good compared to other countries.</p>
 <img src="/images/scopus_pic/pic_1.png" width="750px" height="250px">
 
-<p style="text-align: justify;">Second pie chart gives the information about companies research, and It is surprising that almost  70% research done by non-Indian companies headquarters in India. Google and IBM published almost 62% of total industry research publication. While there is only one Indian company who survive in top 10 is TCS with 13% publication.</p> 
+<p style="text-align: justify;">The following pie-chart examines industrial research. Almost 70% of the research is at non-Indian companies’ headquarters in India. Google and IBM published almost 62% of all industry research publications, while there is only one Indian company in the top 10 – TCS with 13% of all publications.</p>
 <img src="/images/scopus_pic/pic_2.png" width="750px" height="250px">
 
-<p style="text-align: justify;">A country with more 129 Deemed Universities, 67 Institution of National Importance (Public), 700 Total Degree-granting Institutions, 35,539 Affiliated Colleges (Public or Private) below result create a big question on the quality of education. It is a big concern for the Indian government and Indian University. From all university publication almost 42% of research publication done by Top - 15 Universities. It is surprising that almost 7.5% of total research publication done by IIS - Banglore alone.  Even IIT - Kharagpur which knows as research hub of Indian IT sector, ranked 7th in top 15 Universities with 2.86% of publication.</p>
+<p style="text-align: justify;">For a country with more than 129 deemed universities, 67 institutions of national importance (public), 700 degree-granting Institutions, 35,539 affiliated colleges (public and private), the chart below raises questions about the quality of education. The top 15 universities contribute to almost 42% of all research publications. A substantial 7.5% of publications are at IISc Banglore alone. Even IIT Kharagpur, known as the research hub of the Indian IT sector, ranks 7th with 2.86% of publications.</p>
 <img src="/images/scopus_pic/pic_3.png" width="750px" height="250px">
 
-<p style="text-align: justify;">Currently, there is a boom of Artificial Intelligence, Machine learning, and deep learning and below bar graph proves the popularity of those research from 2001 to 2016 in India. It also shows that publication in AI field shows zig-zag patterns because of complexity in research and lake of financial support in India.</p>
+<p style="text-align: justify;">Currently, there is a boom in Artificial Intelligence, Machine Learning, and Deep Learning and the bar graph below shows the popularity of research in these areas from 2001 to 2016 in India. It also shows that publications in AI shows a “zig-zag” pattern, likely due to complexity of research and lack of financial support in India.</p>
 <img src="/images/scopus_pic/trend.png" width="750px" height="250px">
 
-<p style="text-align: justify;">When we compare that data with world data which represent world's research trend, But we are not able to match that research trend.</p>
+<p style="text-align: justify;">We compare this data to global trends. The disparity in growth rates is very apparent.</p>
 <img src="/images/arxiv_pic/trend.png" width="750px" height="250px">
 
-<p style="text-align: justify;">When anlysis the top words use in title from arxiv world dataset, below chart gives a clear trend in research. And this shows, We are lacking behind that.</p>
+<p style="text-align: justify;">The top words used in the titles of arXiv papers are shown below.</p>
 <img src="/images/arxiv_pic/word.png" width="750px" height="250px">
 
-below graph shows top 20 Indian authors based on the citation number.
+<p style="text-align: justify;">The top 20 Indian authors based on citation number are shown below. (Multiple persons indicate a tie.) </p>
 <img src="/images/scopus_pic/pic_5.png" width="750px" height="250px">
-<p style="text-align: justify;">Now compare this with top researcher from around the globe.</p>
+<p style="text-align: justify;">Top researchers from around the globe:</p>
 <img src="/images/arxiv_pic/author.png" width="750px" height="250px">
 
-Below six bar graph shows top research trend in an individual year from 2010 to 2016.
-<p style="text-align: justify;">Below we have result of Top trends in Indian research and world's research for year 2010</p>
+The graphs below shows Indian research trends for each year from 2010 to 2016:
+<p style="text-align: justify;">2010:</p>
 <img src="/images/scopus_pic/2010.png" width="750px" height="250px">
 <img src="/images/arxiv_pic/2010.png" width="750px" height="250px">
-<p style="text-align: justify;">Below we hve result of Top trends in Indian research and world's research for year 2011</p>
+<p style="text-align: justify;">2011:</p>
 <img src="/images/scopus_pic/2011.png" width="750px" height="250px">
 <img src="/images/arxiv_pic/2011.png" width="750px" height="250px">
-<p style="text-align: justify;">Below we hve result of Top trends in Indian research and world's research for year 2012</p>
+<p style="text-align: justify;">2012:</p>
 <img src="/images/scopus_pic/2012.png" width="750px" height="250px">
 <img src="/images/arxiv_pic/2012.png" width="750px" height="250px">
-<p style="text-align: justify;">Below we hve result of Top trends in Indian research and world's research for year 2013</p>
+<p style="text-align: justify;">2013:</p>
 <img src="/images/scopus_pic/2013.png" width="750px" height="250px">
 <img src="/images/arxiv_pic/2013.png" width="750px" height="250px">
-<p style="text-align: justify;">Below we hve result of Top trends in Indian research and world's research for year 2014</p>
+<p style="text-align: justify;">2014:</p>
 <img src="/images/scopus_pic/2014.png" width="750px" height="250px">
 <img src="/images/arxiv_pic/2014.png" width="750px" height="250px">
-<p style="text-align: justify;">Below we hve result of Top trends in Indian research and world's research for year 2015</p>
+<p style="text-align: justify;">2015:</p>
 <img src="/images/scopus_pic/2015.png" width="750px" height="250px">
 <img src="/images/arxiv_pic/2015.png" width="750px" height="250px">
-<p style="text-align: justify;">Below we hve result of Top trends in Indian research and world's research for year 2016</p>
+<p style="text-align: justify;">2016:</p>
 <img src="/images/scopus_pic/2016.png" width="750px" height="250px">
 <img src="/images/arxiv_pic/2016.png" width="750px" height="250px">
 
-#### About Dataset and processing and cleaning of data:
+#### About the datasets
 
-* SCOPUS data set is not open source. So we can not able to publish it.
-* ARXIV meta data(Limited field such as author name, title name, summary, citation, category) is open source and dataset link is available below.
-* Data is already clean and arranged.
+* The SCOPUS dataset is not open source. We are not able to publish it.
+* arXiv meta data (limited fields such as author name, title name, summary, citation, category) is open source and a link is available below.
+* The arXiv data is already clean and arranged.
 
-**Dataset and Jupyter notebook is available under MIT - open source license. If you want to use this code or data feel free to do it, But,  Please cite me.**
+**The Jupyter notebook is available under MIT open source license. If you want to use this code, feel free to do so and cite me.**
 
-* Link to the repository : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
-* Link to : [click here!](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher)
-* Dataset(store in SQLite and CSV format) : [Click here!](https://github.com/NeelShah18/Arxiv_Data_analysis)
+* View the repository [here](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher).
+* Find the arXiv dataset (stored in SQLite and CSV formats)  [here](https://github.com/NeelShah18/Arxiv_Data_analysis).
 
 **References:**
 * [The Google Brain team — Looking Back on 2016](https://research.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html)
 * [PM Modi addresses Indian Science Congress in Tirupati](http://rstv.nic.in/pm-modi-addresses-indian-science-congress-tirupati.html?sf52381424=1)
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/FBogZqSuP8eNzy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/neelknight1/research-trend-of-ai-in-india-73238255" title="Research trend of ai in india" target="_blank">Research trend of ai in india</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/neelknight1">Neel Shah</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FBogZqSuP8eNzy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/neelknight1/research-trend-of-ai-in-india-73238255" title="Research trend of AI in India" target="_blank">Research trend of AI in India</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/neelknight1">Neel Shah</a></strong> </div>
