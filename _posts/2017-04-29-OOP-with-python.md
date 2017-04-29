@@ -8,13 +8,13 @@ title: OOP with Python
 
 Contact details:
 
-1) Website: https://neelshah18.github.io/
+1) [Web: neelshah18.github.io](https://neelshah18.github.io/)
 
-2) GitHub: https://github.com/NeelShah18
+2) [GitHub: neelshah18](https://github.com/NeelShah18)
 
-3) LinkedIn: https://www.linkedin.com/in/neel-shah-7b5495104/
+3) [LinkedIn: Neel Shah](https://www.linkedin.com/in/neel-shah-7b5495104/)
 
-4) Facebook: https://www.facebook.com/neelxyz
+4) [Facebook: neelxyz](https://www.facebook.com/neelxyz)
 
 *** all code and data are available on my GitHub account under MIT open source licence***
 
@@ -369,6 +369,6 @@ Hope you like it and not bored!**
 
 You can download all material from github account or website.
 
-1) Website: https://neelshah18.github.io/
+1) [Website: neelshah18.github.io](https://neelshah18.github.io/OOP-with-python.html)
 
-2) GitHub: https://github.com/NeelShah18/OOP-with-python
+2) [GitHub: neelshah18](https://github.com/NeelShah18/OOP-with-python)
