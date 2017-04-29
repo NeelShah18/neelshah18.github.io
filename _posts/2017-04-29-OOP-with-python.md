@@ -372,3 +372,11 @@ You can download all material from github account or website.
 1) [Website: neelshah18.github.io](https://neelshah18.github.io/OOP-with-python.html)
 
 2) [GitHub: neelshah18](https://github.com/NeelShah18/OOP-with-python)
+
+**References:**
+
+1) http://www.python-course.eu/object_oriented_programming.php
+
+2) http://thepythonguru.com/python-inheritance-and-polymorphism/
+
+3) https://pythonschool.net/oop/inheritance-and-polymorphism/
