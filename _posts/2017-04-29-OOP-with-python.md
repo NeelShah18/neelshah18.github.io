@@ -3,22 +3,7 @@ layout: post
 title: OOP with Python
 ---
 
-# Hi, I am Neel Shah
-## Wroking at Datalog.ai and IDLI on Data analyst, Machine learnig and Deep Learning
-
-Contact details:
-
-1) [Web: neelshah18.github.io](https://neelshah18.github.io/)
-
-2) [GitHub: neelshah18](https://github.com/NeelShah18)
-
-3) [LinkedIn: Neel Shah](https://www.linkedin.com/in/neel-shah-7b5495104/)
-
-4) [Facebook: neelxyz](https://www.facebook.com/neelxyz)
-
-*** all code and data are available on my GitHub account under MIT open source licence***
-
-* Though many computer scientists and programmers consider OOP to be a modern programming paradigm, the roots go back to 1960s. The first programming language to use objects was Simula 67. As the name implies, Simula 67 was introduced in the year 1967. A major breakthrough for object-oriented programming came with the programming language Smalltalk in the 1970s.
+* History: Many computer scientists and programmers consider OOP to be a modern programming paradigm, the roots go back to 1960s. The first programming language to use objects was Simula 67. As the name implies, Simula 67 was introduced in the year 1967. A major breakthrough for object-oriented programming came with the programming language Smalltalk in the 1970s.
 
 #### Following two concept is explain everything the use of OOPs.
 
