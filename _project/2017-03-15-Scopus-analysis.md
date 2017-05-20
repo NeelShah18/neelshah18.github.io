@@ -84,15 +84,8 @@ The graphs below shows Indian research trends for each year from 2010 to 2016:
 <img src="/images/scopus_pic/2016.png" width="750px" height="250px">
 <img src="/images/arxiv_pic/2016.png" width="750px" height="250px">
 
-<p style="text-align: justify;">Publication By top 5 countries and India in top 5 journals:</p>
-<img src="/images/scopus_pic/.png" width="750px" height="250px">
-
 <p style="text-align: justify;">Total number of publications by top 5 countries and india from 2001 to 2016:</p>
 <img src="/images/scopus_pic/slide11.png" width="750px" height="250px">
-
-video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/88EpTslfehs" frameborder="0" allowfullscreen=""></iframe>
 
 #### About the datasets
 
