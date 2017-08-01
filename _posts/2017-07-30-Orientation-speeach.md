@@ -1,0 +1,12 @@
+---
+layout: post
+title: Orientation Speech
+---
+
+Hello, Good morning to everyone. Respected Faculties, Parents, and my dear friends. Myself Neel Shah and, I completed my Bachelor's in CSE and Master's in IT between 2010 to 2016. (About me) 
+
+First of all very congratulation to 2017 batch for selection in PU.  Today, your new journey is started, a journey filled with knowledge, a journey towards success, a journey with some failures, a journey of struggling, journey with bumping road. But one thing is sure you will collect a lot of memories during this period. So don't forget to enjoy this time. Because it is the time you always miss.
+
+ Let me tell you my story.  When I join PU in 2010, I am an average student. I don't have any idea about an industry or about research. But my department, my classmates provide me an environment where, I learn new things every day, in the 4th year during my project year, my professor introduce term research in AI to me. And I got so much interest that I join Master in PU. during that time, a professor like Narendra sir and Lokesh sir always help me, they teach me about the different subject in depth in their free time. They always support me when I fail. I also remember Nilesh Kakade sir, because of him, I got interested in research and innovation. They help me develop nature to study hard as you can, put your best in everything I do without thinking about results. I remember the day when I sit like you, during my orientation vice man said, **"You will learn more from failure than success"**. Any my professor always help me so I can stand with that words. I know one event, when I ask a question about thesis writing to Harshal Sir, that time I just join master and I don't have any experience about thesis writing they guide me so perfectly that, Even in my Ph.D. I am using it.
+ 
+ Here, a professor is not only for lectures, but they will become your mentors for your life. Here you will find your best friends, your future colleague and will make a life long relationship. Here, You will get excellence. One more suggestion doesn't forget your parents, call them every evening. I will end my speech with Great Dr. A.P.J. Abdul Kalam quotes: **"If you want to shine like a sun. First, burn like a sun."**
