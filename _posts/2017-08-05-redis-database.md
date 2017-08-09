@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No-SQL database- PART-1: MongoDB
+title: No-SQL database MongoDB - PART-1
 ---
 
 ## NoSQL:
