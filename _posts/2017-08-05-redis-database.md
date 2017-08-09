@@ -43,6 +43,7 @@ title: No-SQL database MongoDB - PART-1
 * Data center aware
 * **Best used:** If you need dynamic queries. If you prefer to define indexes, not map/reduce functions. If you need good performance on a big DB. If you wanted CouchDB, but your data changes too much, filling up disks.
 * **For example:** For most things that you would do with MySQL or PostgreSQL, but having predefined columns really holds you back.
+
 #### History of MongoDB:
 <div style="text-align: justify">The database was released to open source in 2009 and is available under the terms of the Free Software Foundation's GNU AGPL Version 3.0 commercial license. At the time of this writing, among other users, the insurance company MetLife is using MongoDB for customer service applications, the website Craigslist is using it for archiving data, the CERN physics lab is using it for data aggregation and discovery and the The New York Times newspaper is using MongoDB to support a form-building application for photo submissions.</div>
 
