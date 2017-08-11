@@ -22,8 +22,6 @@ Mostly my work is on Python, R, MongoDB, MySQL, and Java. I am an active coder a
     <a href="{{ site.github.url }}{{ upcoming.url }}">{{ upcoming.title }}</a>
   </h4>
   <p style="text-align: justify;">
-    {{ upcoming.content | strip_html | truncate: 200 }} <a href="{{ site.github.url }}{{ upcoming.url }}">Read more</a>
-    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ upcoming.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
   </p>
 </div>
 {% endfor %}
