@@ -3,50 +3,41 @@ layout: post
 title: "Resume :"
 ---
 
-Neel Shah 
-=========
-
-Contact:
-
-Email: neelknightme@gmail.com
-
-Number: +91-9408427080
-
-Website: https://neelshah18.github.io/
+<h1 style="text-align: center;">Neel Shah</h1>
+<p style="text-align: center;">
+<br>neelknightme@gmail.com
+<br>+01-807-356-5415
+<br><a href="https://neelshah18.github.io/" style="color: #C70039;">https://neelshah18.github.io/</a>
+</p>
 
 Experience
 ----------
 
-**Full Stack Engineer and data analyst Intern: From April-2017 to Present**
+**Founder - Godseyelab: From october-2017 to Present** [GodsEyeLab](http://www.godseyelab.com)
 
-* I am working on NER, ML and Data analysis module of mypolly.
+* Research lab working on Bigdata analysis, AI, AI-security and NLP based on Thunderbay, Canada.
 
-links:
+**Machine learning engineering: From April-2017 to September-2017** [datalog.ai](http://www.datalog.ai/)
 
-* [datalog.ai](http://www.datalog.ai/)
+* Developed NER functionality using NLP and without NLP with 95%+ efficiency.
+* Create back-end data analysis system for text analysis
+* Developed API which can handle thousands request per second.
+* Manage MongoDB database and optimization of it.
 
-**Data Analyst research Intern at Panchamrut Dairy: From July-2016 to March-2017**
+**Independent Consultant at Arjun Roadways: From January-2016 to February-2017** [Arjun Roadways](http://arjunroadways.com/)
 
-* Interpret data, analyze results using “Machine Learning statistical techniques” and
-  provide ongoing reports.
-* Develop and implement data collection systems and other strategies that optimize
-  statistical efficiency and data quality.
-* Identify, analyze, and interpret trends or patterns in complex data sets.
-* Work closely with management to prioritize business and information needs.
+* Find the current pattern of company services and customers using advance KNN and market basket analysis.
+* Increase the profit up to 10+% using sales patterns prediction.
+* Optimize operating cost using current spending pattern up to 5%.
+* Generate predicting report for a future contract, which helps to determine the exact service cost of a contract.
 
-links:
+**Data Analyst research Intern at Panchamrut Dairy: From July-2016 to March-2017** [Panchamrut Dairy](http://panchamrutdairy.org/)
 
-* [Panchamrut Dairy](http://panchamrutdairy.org/)
-
-**Independent Consultant at Arjun Roadways: From January-2016 to February-2017**
-
-* Indentify, analyze, and interpret trend of current service and customre and
-  minimize operating cost.
-* Predit future customer trend and oprational cost.
-
-links:
-
-* [Arjun Roadways](http://arjunroadways.com/)
+* Developed real time data analysis system which can handle 5 GB/S with a low-end server.
+* Worked on large scale API which handles 100GB of weekly data and analyzes it.
+* Finding customer buying pattern using market basket analysis.
+* Forcast sales pattern with 71% efficiency.
+* Analyzed current spending data and help to reduce cost up to 2%.
 
 Projects
 --------
@@ -65,11 +56,11 @@ Education
 ---------
 
 2017
-:   **Ph.D. track(MS + Ph.D.), Computer science**; Lakehead University,Thunder bay (Canada)
+:   **M.Sci., Computer science**; Lakehead University,Thunder bay (Canada)
 
 
 2014-2016 
-:   **Master , Information Technology**; Gujarat Technology University (Vadodara)
+:   **M.E., Information Technology**; Gujarat Technology University (Vadodara)
 
     *Thesis title: Searching on encrypted data(SED)*
     *Project: Car Parking System Using RFID Based on Arduino*
@@ -87,32 +78,24 @@ Skills
 
 :   **first-lang:** Python, API using python and REST, R, Java, C, C++, HTML, CSS, XML, JSON
 
-:   **Statistics skills:** Basic and Advance Statics, Predictive analysis, Outliner and Variation finding in data
-
 :   **Database:** MySQL, MongoDB, Apache
 
 :   **Operating System:** Linux-Server(Ubuntu Server), Linux(Ubuntu), Windows
 
-:   **Data Analyst skills:** Data mining, Data cleaning, Data restructuring, Machine Leanring algorithm, NER algorithms
-
-[ref]: https://github.com/NeelShah18
+:   **Deep learning, Data science and ML:** Data mining, Data cleaning, Data restructuring, Machine Leanring algorithm, NER algorithms, NLP systems(Paragraph learning), 
 
 Personal details
 ----------------
 
 * Human Languages:
 
-     * English(fluent)
-     * Hindi(fluent)
-     * Gujarati(fluent)
-     * Spanish(begineer)
+     * English
+     * Hindi
+     * Gujarati
+     * French(beginner)
 
 * Hobbies:
   
-     * Reading Novel specially Fiction, Sci-Fiction, Love story, History etc...
+     * Reading Novel specially Fiction, Sci-Fiction, Love story, History.
      * Football
      * Writing poems
-
-[LinkedIn profile](https://www.linkedin.com/in/neel-shah-7b5495104/)
-
-**I take reposibility of my details.**
