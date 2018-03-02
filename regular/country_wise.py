@@ -4,7 +4,7 @@ import elasticsearch
 def main():
     temp_dic = {}
     es = elasticsearch.Elasticsearch()
-    i = 0
+    i = 1
     with open('Aug13.json','r') as f:
         for line in f:
             one_dic = json.loads(line)
@@ -77,8 +77,10 @@ def main():
             "user_verified": one_dic["tweet_data"]["user"]["verified"],
             "user_retweet_count": one_dic["tweet_data"]["retweet_count"]
             }
-            es.index(index='tindex1', doc_type='tmap1', id=1, body=temp_dic)
-            print(json.dumps(temp_dic, sort_keys=True, indent=4, separators=(',',':')))
+            es.index(index='tindex1', doc_type='tmap1', id=i, body=temp_dic)
+            i = i+1
+            print(i)
+            #print(json.dumps(temp_dic, sort_keys=True, indent=4, separators=(',',':')))
     f.close()
     return None
 
