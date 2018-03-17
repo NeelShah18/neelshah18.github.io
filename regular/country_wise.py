@@ -1,5 +1,6 @@
 import json
 import elasticsearch
+import abc
 
 def main():
     temp_dic = {}
