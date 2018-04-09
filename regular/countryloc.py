@@ -17,14 +17,14 @@ def main():
             freq = data['Count']
             try:
                 one_dic = {
-                    "tweet": {
+
                         "location" : {
                             "lat" : temp_dic[country][0],
                             "lon" : temp_dic[country][1]
                         },
                         "country" : country,
-                        "freq" : freq
-                    }
+                        "freq" : int(freq.replace(",",""))
+
                 }
                 result.append(one_dic)
             except:
