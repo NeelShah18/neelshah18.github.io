@@ -5,7 +5,7 @@ def main():
     es = elasticsearch.Elasticsearch()
     try:
         #Body cotains your query of elasticsearch
-        #Tutorial for query bulding: https://www.elastic.co/guide/en/elasticsearch/reference/6.2/query-dsl.html
+        #Tutorial for query building: https://www.elastic.co/guide/en/elasticsearch/reference/6.2/query-dsl.html
         output = es.search(index="*", body={"query":{
             "match":
                 {"text":
