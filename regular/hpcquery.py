@@ -9,7 +9,7 @@ def main():
         output = es.search(index="*", body={"query":{
             "match":
                 {"text":
-                    "women woman health issues issue disease diseases common top reproductiveheal reprodutive health"
+                    "word to search in tweet text"
                     }
                 }
             })
