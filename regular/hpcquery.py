@@ -33,7 +33,7 @@ def main():
     #here you can use your query: edit it as you want
     #Tutorial for query building: https://www.elastic.co/guide/en/elasticsearch/reference/6.2/query-dsl.html
     #And you can write on youyr query just make sure about foramte
-    
+
     query = {
             "match":
                 {"text":
