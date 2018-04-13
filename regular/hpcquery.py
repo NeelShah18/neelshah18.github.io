@@ -56,8 +56,6 @@ def main():
     output = []
     for total_pages, page_counter, page_items, page_data in scroll(index, doc_type, query, page_size=page_size):
         print('total_pages={}, page_counter={}, page_items={}'.format(total_pages, page_counter, page_items))
-        print(page_data)
-        print("\n ---------------------------------- \n")
         output.append(page_data)
 
     try:
