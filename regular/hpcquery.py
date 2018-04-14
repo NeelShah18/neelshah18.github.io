@@ -4,7 +4,7 @@ import math
 
 def scroll(index, doc_type, query_body, page_size=100, debug=False, scroll='2m'):
     es = elasticsearch.Elasticsearch()
-    page = es.search(index=index, doc_type=doc_type, scroll=scroll, size=page_size, body=query_body)
+    page = es.search(index=index, doc_type=doc_type, scroll=scroll, size=page_size, body=query_body, request_timeout=20)
     sid = page['_scroll_id']
     scroll_size = page['hits']['total']
     total_pages = math.ceil(scroll_size/page_size)
