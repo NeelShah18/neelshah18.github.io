@@ -1,0 +1,2 @@
+ssh wes-00-01 'echo=====login in the node'
+ssh wes-00-01 'module load EPD; python /home/nshah5/canada/code/oct22.py output_oct22.txt 2>&1 &''
