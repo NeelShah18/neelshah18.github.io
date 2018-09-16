@@ -13,9 +13,10 @@ title: "Resume :"
 Experience
 ----------
 
-**Founder - Godseyelab: From october-2017 to Present** [GodsEyeLab](http://www.godseyelab.com)
+**Research assistant - Lakehead University: From December-2017 to Present** 
 
-* Research lab working on Bigdata analysis, AI, AI-security and NLP based on Thunderbay, Canada.
+* Develop “Elasticsearch” on distributed server(20+ nodes) which handle query on 1TB within 1 min.
+* Working on Twitter data analysis project for health informatics.
 
 **Machine learning engineering: From April-2017 to September-2017** [datalog.ai](http://www.datalog.ai/)
 
