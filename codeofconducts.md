@@ -138,7 +138,12 @@ We respect the intellectual property rights of others. Posting content that viol
 
 When provided with the requisite information, Meetup will remove or disable access to material that infringes on the intellectual property rights of others or remove accounts of those who may be repeat infringers. Please note that simply holding a Meetup around a similar topic in a shared location is generally not considered a violation of our policies.
 
-# Everyone must follow the basic code of conduct decided by the owner of the place where event is happening. Any violation of the of it will handle by owner of the property.
+# Any violation of code of conduct will be resulted in:
+-- Remove from the event.
+-- Reported to Local authoraties.
+-- Finacial penalty for any damage to event property.
+-- Also owner's property regulation violation will handle as per owner's code of conduct.
+-- Asking for official apology.
 
 # License And Attribution
 
